@@ -1,0 +1,28 @@
+C:\Users\USER\OneDrive - Southern Alberta Institute of Technology\SAIT\OOP2\Assignments\Labs\Lab 0 - Basics of C#\Lab 0 - Basics of C#\bin\Debug\net8.0\Lab 0 - Basics of C#.exe
+C:\Users\USER\OneDrive - Southern Alberta Institute of Technology\SAIT\OOP2\Assignments\Labs\Lab 0 - Basics of C#\Lab 0 - Basics of C#\bin\Debug\net8.0\Lab 0 - Basics of C#.deps.json
+C:\Users\USER\OneDrive - Southern Alberta Institute of Technology\SAIT\OOP2\Assignments\Labs\Lab 0 - Basics of C#\Lab 0 - Basics of C#\bin\Debug\net8.0\Lab 0 - Basics of C#.runtimeconfig.json
+C:\Users\USER\OneDrive - Southern Alberta Institute of Technology\SAIT\OOP2\Assignments\Labs\Lab 0 - Basics of C#\Lab 0 - Basics of C#\bin\Debug\net8.0\Lab 0 - Basics of C#.dll
+C:\Users\USER\OneDrive - Southern Alberta Institute of Technology\SAIT\OOP2\Assignments\Labs\Lab 0 - Basics of C#\Lab 0 - Basics of C#\bin\Debug\net8.0\Lab 0 - Basics of C#.pdb
+C:\Users\USER\OneDrive - Southern Alberta Institute of Technology\SAIT\OOP2\Assignments\Labs\Lab 0 - Basics of C#\Lab 0 - Basics of C#\obj\Debug\net8.0\Lab 0 - Basics of C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive - Southern Alberta Institute of Technology\SAIT\OOP2\Assignments\Labs\Lab 0 - Basics of C#\Lab 0 - Basics of C#\obj\Debug\net8.0\Lab 0 - Basics of C#.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive - Southern Alberta Institute of Technology\SAIT\OOP2\Assignments\Labs\Lab 0 - Basics of C#\Lab 0 - Basics of C#\obj\Debug\net8.0\Lab 0 - Basics of C#.AssemblyInfo.cs
+C:\Users\USER\OneDrive - Southern Alberta Institute of Technology\SAIT\OOP2\Assignments\Labs\Lab 0 - Basics of C#\Lab 0 - Basics of C#\obj\Debug\net8.0\Lab 0 - Basics of C#.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive - Southern Alberta Institute of Technology\SAIT\OOP2\Assignments\Labs\Lab 0 - Basics of C#\Lab 0 - Basics of C#\obj\Debug\net8.0\Lab 0 - Basics of C#.dll
+C:\Users\USER\OneDrive - Southern Alberta Institute of Technology\SAIT\OOP2\Assignments\Labs\Lab 0 - Basics of C#\Lab 0 - Basics of C#\obj\Debug\net8.0\refint\Lab 0 - Basics of C#.dll
+C:\Users\USER\OneDrive - Southern Alberta Institute of Technology\SAIT\OOP2\Assignments\Labs\Lab 0 - Basics of C#\Lab 0 - Basics of C#\obj\Debug\net8.0\Lab 0 - Basics of C#.pdb
+C:\Users\USER\OneDrive - Southern Alberta Institute of Technology\SAIT\OOP2\Assignments\Labs\Lab 0 - Basics of C#\Lab 0 - Basics of C#\obj\Debug\net8.0\Lab 0 - Basics of C#.genruntimeconfig.cache
+C:\Users\USER\OneDrive - Southern Alberta Institute of Technology\SAIT\OOP2\Assignments\Labs\Lab 0 - Basics of C#\Lab 0 - Basics of C#\obj\Debug\net8.0\ref\Lab 0 - Basics of C#.dll
+C:\Assignments\Lab 0 - Basics of C#\Lab 0 - Basics of C#\bin\Debug\net8.0\Lab 0 - Basics of C#.exe
+C:\Assignments\Lab 0 - Basics of C#\Lab 0 - Basics of C#\bin\Debug\net8.0\Lab 0 - Basics of C#.deps.json
+C:\Assignments\Lab 0 - Basics of C#\Lab 0 - Basics of C#\bin\Debug\net8.0\Lab 0 - Basics of C#.runtimeconfig.json
+C:\Assignments\Lab 0 - Basics of C#\Lab 0 - Basics of C#\bin\Debug\net8.0\Lab 0 - Basics of C#.dll
+C:\Assignments\Lab 0 - Basics of C#\Lab 0 - Basics of C#\bin\Debug\net8.0\Lab 0 - Basics of C#.pdb
+C:\Assignments\Lab 0 - Basics of C#\Lab 0 - Basics of C#\obj\Debug\net8.0\Lab 0 - Basics of C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Assignments\Lab 0 - Basics of C#\Lab 0 - Basics of C#\obj\Debug\net8.0\Lab 0 - Basics of C#.AssemblyInfoInputs.cache
+C:\Assignments\Lab 0 - Basics of C#\Lab 0 - Basics of C#\obj\Debug\net8.0\Lab 0 - Basics of C#.AssemblyInfo.cs
+C:\Assignments\Lab 0 - Basics of C#\Lab 0 - Basics of C#\obj\Debug\net8.0\Lab 0 - Basics of C#.csproj.CoreCompileInputs.cache
+C:\Assignments\Lab 0 - Basics of C#\Lab 0 - Basics of C#\obj\Debug\net8.0\Lab 0 - Basics of C#.dll
+C:\Assignments\Lab 0 - Basics of C#\Lab 0 - Basics of C#\obj\Debug\net8.0\refint\Lab 0 - Basics of C#.dll
+C:\Assignments\Lab 0 - Basics of C#\Lab 0 - Basics of C#\obj\Debug\net8.0\Lab 0 - Basics of C#.pdb
+C:\Assignments\Lab 0 - Basics of C#\Lab 0 - Basics of C#\obj\Debug\net8.0\Lab 0 - Basics of C#.genruntimeconfig.cache
+C:\Assignments\Lab 0 - Basics of C#\Lab 0 - Basics of C#\obj\Debug\net8.0\ref\Lab 0 - Basics of C#.dll

@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Assignments\\Lab 0 - Basics of C#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D83AB92D-E9F3-4A8C-9B2F-B201EEDF5F78}|Lab 0 - Basics of C#\\Lab 0 - Basics of C#.csproj|c:\\assignments\\lab 0 - basics of c#\\lab 0 - basics of c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D83AB92D-E9F3-4A8C-9B2F-B201EEDF5F78}|Lab 0 - Basics of C#\\Lab 0 - Basics of C#.csproj|solutionrelative:lab 0 - basics of c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D83AB92D-E9F3-4A8C-9B2F-B201EEDF5F78}|Lab 0 - Basics of C#\\Lab 0 - Basics of C#.csproj|c:\\assignments\\lab 0 - basics of c#\\lab 0 - basics of c#\\numbers.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D83AB92D-E9F3-4A8C-9B2F-B201EEDF5F78}|Lab 0 - Basics of C#\\Lab 0 - Basics of C#.csproj|solutionrelative:lab 0 - basics of c#\\numbers.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D83AB92D-E9F3-4A8C-9B2F-B201EEDF5F78}|Lab 0 - Basics of C#\\Lab 0 - Basics of C#.csproj|c:\\assignments\\lab 0 - basics of c#\\lab 0 - basics of c#\\lab 0 - basics of c#.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D83AB92D-E9F3-4A8C-9B2F-B201EEDF5F78}|Lab 0 - Basics of C#\\Lab 0 - Basics of C#.csproj|solutionrelative:lab 0 - basics of c#\\lab 0 - basics of c#.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Assignments\\Lab 0 - Basics of C#\\Lab 0 - Basics of C#\\Program.cs",
+              "RelativeDocumentMoniker": "Lab 0 - Basics of C#\\Program.cs",
+              "ToolTip": "C:\\Assignments\\Lab 0 - Basics of C#\\Lab 0 - Basics of C#\\Program.cs",
+              "RelativeToolTip": "Lab 0 - Basics of C#\\Program.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAA5wE4AAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T22:12:04.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "numbers.txt",
+              "DocumentMoniker": "C:\\Assignments\\Lab 0 - Basics of C#\\Lab 0 - Basics of C#\\numbers.txt",
+              "RelativeDocumentMoniker": "Lab 0 - Basics of C#\\numbers.txt",
+              "ToolTip": "C:\\Assignments\\Lab 0 - Basics of C#\\Lab 0 - Basics of C#\\numbers.txt",
+              "RelativeToolTip": "Lab 0 - Basics of C#\\numbers.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-14T21:10:19.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Lab 0 - Basics of C#.csproj",
+              "DocumentMoniker": "C:\\Assignments\\Lab 0 - Basics of C#\\Lab 0 - Basics of C#\\Lab 0 - Basics of C#.csproj",
+              "RelativeDocumentMoniker": "Lab 0 - Basics of C#\\Lab 0 - Basics of C#.csproj",
+              "ToolTip": "C:\\Assignments\\Lab 0 - Basics of C#\\Lab 0 - Basics of C#\\Lab 0 - Basics of C#.csproj",
+              "RelativeToolTip": "Lab 0 - Basics of C#\\Lab 0 - Basics of C#.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-14T22:02:09.893Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
